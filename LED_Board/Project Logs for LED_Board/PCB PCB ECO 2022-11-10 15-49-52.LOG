@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=3V3 Pin=J1-1
+Removed Pin From Net: NetName=+5 Pin=J1-2
+Removed Pin From Net: NetName=+5 Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-6
+Removed Pin From Net: NetName=GND Pin=J1-9
+Removed Pin From Net: NetName=GND Pin=J1-14
+Removed Pin From Net: NetName=SDA Pin=J1-19
+Removed Pin From Net: NetName=GND Pin=J1-20
+Removed Pin From Net: NetName=SCL Pin=J1-23
+Removed Pin From Net: NetName=GND Pin=J1-25
+Removed Pin From Net: NetName=GND Pin=J1-30
+Removed Pin From Net: NetName=GND Pin=J1-34
+Removed Pin From Net: NetName=GND Pin=J1-39
+Removed Member From Class: ClassName=Raspberry Pi inputs Member=J1
+Added Component: Designator=P1(9774060360R)
+Added Component: Designator=P2(9774060360R)
+Added Component: Designator=P3(9774060360R)
+Added Component: Designator=P4(9774060360R)
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Member To Class: ClassName=Raspberry Pi inputs Member=Component P1 9774060360R
+Added Member To Class: ClassName=Raspberry Pi inputs Member=Component P2 9774060360R
+Added Member To Class: ClassName=Raspberry Pi inputs Member=Component P3 9774060360R
+Added Member To Class: ClassName=Raspberry Pi inputs Member=Component P4 9774060360R

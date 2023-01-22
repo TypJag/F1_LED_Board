@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=P1 Old Footprint=9774060360R New Footprint=SMTSOB-M3-8ET
+Change Component Footprint: Designator=P2 Old Footprint=9774060360R New Footprint=SMTSOB-M3-8ET
+Change Component Footprint: Designator=P3 Old Footprint=9774060360R New Footprint=SMTSOB-M3-8ET
+Change Component Footprint: Designator=P4 Old Footprint=9774060360R New Footprint=SMTSOB-M3-8ET
+Change Component Comment : Designator=P1 Old Comment=9774060360R New Comment=SMTSOB-M3-8ET
+Change Component Comment : Designator=P2 Old Comment=9774060360R New Comment=SMTSOB-M3-8ET
+Change Component Comment : Designator=P3 Old Comment=9774060360R New Comment=SMTSOB-M3-8ET
+Change Component Comment : Designator=P4 Old Comment=9774060360R New Comment=SMTSOB-M3-8ET
+Added Member To Class: ClassName=LEDs_Sheet_1 Member=Component C1 C0402C105K9PAC

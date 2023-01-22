@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=19R Pin=IC5-9
+Removed Pin From Net: NetName=19G Pin=IC5-10
+Removed Pin From Net: NetName=19B Pin=IC5-11
+Removed Pin From Net: NetName=20R Pin=IC5-12
+Removed Pin From Net: NetName=20G Pin=IC5-13
+Removed Pin From Net: NetName=20B Pin=IC5-14
+Added Pin To Net: NetName=19R Pin=IC6-5
+Added Pin To Net: NetName=19G Pin=IC6-6
+Added Pin To Net: NetName=19B Pin=IC6-7
+Added Pin To Net: NetName=20R Pin=IC6-9
+Added Pin To Net: NetName=20G Pin=IC6-10
+Added Pin To Net: NetName=20B Pin=IC6-11

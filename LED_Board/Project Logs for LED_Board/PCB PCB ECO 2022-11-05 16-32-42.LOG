@@ -1,0 +1,8 @@
+Added Component: Designator=P1(9774060360R)
+Added Component: Designator=P2(9774060360R)
+Added Component: Designator=P3(9774060360R)
+Added Component: Designator=P4(9774060360R)
+Added Member To Class: ClassName=Raspberry Pi inputs Member=Component P1 9774060360R
+Added Member To Class: ClassName=Raspberry Pi inputs Member=Component P2 9774060360R
+Added Member To Class: ClassName=Raspberry Pi inputs Member=Component P3 9774060360R
+Added Member To Class: ClassName=Raspberry Pi inputs Member=Component P4 9774060360R

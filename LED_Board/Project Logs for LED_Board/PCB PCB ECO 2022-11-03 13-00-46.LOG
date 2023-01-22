@@ -1,0 +1,312 @@
+Removed Pin From Net: NetName=+5 Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=+5 Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=+5 Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=+5 Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=+5 Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=+5 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=+5 Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=+5 Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=+5 Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=+5 Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=+5 Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=+5 Pin=C18-1
+Removed Pin From Net: NetName=GND Pin=C18-2
+Removed Pin From Net: NetName=SDA Pin=R5-1
+Removed Pin From Net: NetName=3V3 Pin=R5-2
+Removed Pin From Net: NetName=SCL Pin=R6-1
+Removed Pin From Net: NetName=3V3 Pin=R6-2
+Removed Pin From Net: NetName=SDA Pin=R8-1
+Removed Pin From Net: NetName=3V3 Pin=R8-2
+Removed Pin From Net: NetName=SCL Pin=R9-1
+Removed Pin From Net: NetName=3V3 Pin=R9-2
+Removed Pin From Net: NetName=SDA Pin=R11-1
+Removed Pin From Net: NetName=3V3 Pin=R11-2
+Removed Pin From Net: NetName=SCL Pin=R12-1
+Removed Pin From Net: NetName=3V3 Pin=R12-2
+Removed Pin From Net: NetName=SDA Pin=R14-1
+Removed Pin From Net: NetName=3V3 Pin=R14-2
+Removed Pin From Net: NetName=SCL Pin=R15-1
+Removed Pin From Net: NetName=3V3 Pin=R15-2
+Removed Pin From Net: NetName=SDA Pin=R17-1
+Removed Pin From Net: NetName=3V3 Pin=R17-2
+Removed Pin From Net: NetName=SCL Pin=R18-1
+Removed Pin From Net: NetName=3V3 Pin=R18-2
+Removed Member From Class: ClassName=LEDs_Sheet_1 Member=R5
+Removed Member From Class: ClassName=LEDs_Sheet_1 Member=R6
+Removed Member From Class: ClassName=LEDs_Sheet_1 Member=R8
+Removed Member From Class: ClassName=LEDs_Sheet_1 Member=R9
+Removed Member From Class: ClassName=LEDs_Sheet_1 Member=R11
+Removed Member From Class: ClassName=LEDs_Sheet_1 Member=R12
+Removed Member From Class: ClassName=LEDs_Sheet_2 Member=R14
+Removed Member From Class: ClassName=LEDs_Sheet_2 Member=R15
+Removed Member From Class: ClassName=LEDs_Sheet_2 Member=R17
+Removed Member From Class: ClassName=LEDs_Sheet_2 Member=R18
+Change Component Footprint: Designator=C9 Old Footprint=CAPC2012X145N New Footprint=C1005_Commercial
+Change Component Footprint: Designator=C10 Old Footprint=CAPC2012X145N New Footprint=C1005_Commercial
+Change Component Footprint: Designator=C11 Old Footprint=CAPC2012X145N New Footprint=C1005_Commercial
+Change Component Footprint: Designator=C12 Old Footprint=CAPC2012X145N New Footprint=C1005_Commercial
+Change Component Footprint: Designator=C16 Old Footprint=CAPC2012X145N New Footprint=C1005_Commercial
+Change Component Footprint: Designator=C18 Old Footprint=CAPC2012X145N New Footprint=C1005_Commercial
+Change Component Footprint: Designator=C1 Old Footprint=CAPC2012X145N New Footprint=CAPC1106X70N
+Change Component Footprint: Designator=C2 Old Footprint=CAPC2012X145N New Footprint=CAPC1106X70N
+Change Component Footprint: Designator=C3 Old Footprint=CAPC2012X145N New Footprint=CAPC1106X70N
+Change Component Footprint: Designator=C4 Old Footprint=CAPC2012X145N New Footprint=CAPC1106X70N
+Change Component Footprint: Designator=C5 Old Footprint=CAPC2012X145N New Footprint=CAPC1106X70N
+Change Component Footprint: Designator=C6 Old Footprint=CAPC2012X145N New Footprint=CAPC1106X70N
+Change Component Footprint: Designator=C7 Old Footprint=CAPC2012X145N New Footprint=CAPC1106X70N
+Change Component Footprint: Designator=C8 Old Footprint=CAPC2012X145N New Footprint=CAPC1106X70N
+Change Component Footprint: Designator=C13 Old Footprint=CAPC2012X145N New Footprint=CAPC1106X70N
+Change Component Footprint: Designator=C14 Old Footprint=CAPC2012X145N New Footprint=CAPC1106X70N
+Change Component Footprint: Designator=C15 Old Footprint=CAPC2012X145N New Footprint=CAPC1106X70N
+Change Component Footprint: Designator=C17 Old Footprint=CAPC2012X145N New Footprint=CAPC1106X70N
+Change Component Comment : Designator=C10 Old Comment=C0805X105K5RACAUTO New Comment=C1005X7S1A225K050BC
+Change Component Comment : Designator=C12 Old Comment=C0805X105K5RACAUTO New Comment=C1005X7S1A225K050BC
+Change Component Comment : Designator=C16 Old Comment=C0805X105K5RACAUTO New Comment=C1005X7S1A225K050BC
+Change Component Comment : Designator=C18 Old Comment=C0805X105K5RACAUTO New Comment=C1005X7S1A225K050BC
+Change Component Comment : Designator=C1 Old Comment=C0805X105K5RACAUTO New Comment=UMK105CBJ105MV-F
+Change Component Comment : Designator=C2 Old Comment=C0805X105K5RACAUTO New Comment=UMK105CBJ105MV-F
+Change Component Comment : Designator=C3 Old Comment=C0805X105K5RACAUTO New Comment=UMK105CBJ105MV-F
+Change Component Comment : Designator=C4 Old Comment=C0805X105K5RACAUTO New Comment=UMK105CBJ105MV-F
+Change Component Comment : Designator=C6 Old Comment=C0805X105K5RACAUTO New Comment=UMK105CBJ105MV-F
+Change Component Comment : Designator=C8 Old Comment=C0805X105K5RACAUTO New Comment=UMK105CBJ105MV-F
+Change Component Comment : Designator=C13 Old Comment=C0805X105K5RACAUTO New Comment=UMK105CBJ105MV-F
+Change Component Comment : Designator=C14 Old Comment=C0805X105K5RACAUTO New Comment=UMK105CBJ105MV-F
+Change Component Comment : Designator=C9 Old Comment=C0805X225K3RACAUTO New Comment=C1005X7S1A225K050BC
+Change Component Comment : Designator=C11 Old Comment=C0805X225K3RACAUTO New Comment=C1005X7S1A225K050BC
+Change Component Comment : Designator=C5 Old Comment=C0805X225K3RACAUTO New Comment=UMK105CBJ105MV-F
+Change Component Comment : Designator=C7 Old Comment=C0805X225K3RACAUTO New Comment=UMK105CBJ105MV-F
+Change Component Comment : Designator=C15 Old Comment=C0805X225K3RACAUTO New Comment=UMK105CBJ105MV-F
+Change Component Comment : Designator=C17 Old Comment=C0805X225K3RACAUTO New Comment=UMK105CBJ105MV-F
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAPC2012X145N"; UniqueID = "\KEWQBUBC" ("\KEWQBUBC")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-8/146244.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "963-UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/UMK105CBJ105MV-F?qs=lkMpTOwszhfe5N0wQnb5vQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAPC2012X145N"; UniqueID = "\TINIVOHP" ("\TINIVOHP")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-8/146244.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "963-UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/UMK105CBJ105MV-F?qs=lkMpTOwszhfe5N0wQnb5vQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "CAPC2012X145N"; UniqueID = "\EZFRXQKR" ("\EZFRXQKR")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-8/146244.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "963-UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/UMK105CBJ105MV-F?qs=lkMpTOwszhfe5N0wQnb5vQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "CAPC2012X145N"; UniqueID = "\DCVOMOPJ" ("\DCVOMOPJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-8/146244.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "963-UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/UMK105CBJ105MV-F?qs=lkMpTOwszhfe5N0wQnb5vQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPC2012X145N"; UniqueID = "\GBTYIDIO" ("\GBTYIDIO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-8/146244.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "963-UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/UMK105CBJ105MV-F?qs=lkMpTOwszhfe5N0wQnb5vQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAPC2012X145N"; UniqueID = "\TXWDAYJJ" ("\TXWDAYJJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-8/146244.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "963-UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/UMK105CBJ105MV-F?qs=lkMpTOwszhfe5N0wQnb5vQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPC2012X145N"; UniqueID = "\DWCFKDME" ("\DWCFKDME")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-8/146244.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "963-UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/UMK105CBJ105MV-F?qs=lkMpTOwszhfe5N0wQnb5vQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAPC2012X145N"; UniqueID = "\XLJGWAZK" ("\XLJGWAZK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-8/146244.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "963-UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/UMK105CBJ105MV-F?qs=lkMpTOwszhfe5N0wQnb5vQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAPC2012X145N"; UniqueID = "\OTBKDQVY" ("\OTBKDQVY")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-8/146244.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "963-UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/UMK105CBJ105MV-F?qs=lkMpTOwszhfe5N0wQnb5vQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAPC2012X145N"; UniqueID = "\IQWNGUFX" ("\IQWNGUFX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-8/146244.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "963-UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/UMK105CBJ105MV-F?qs=lkMpTOwszhfe5N0wQnb5vQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAPC2012X145N"; UniqueID = "\AROWORDW" ("\AROWORDW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C1005X7S1A225K050BC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c1005x7s1a225k050bc/tdk?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C1005X7S1A225K050BC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "810-C1005X7S1A225K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/C1005X7S1A225K050BC?qs=dfay7wIA1uFANmjMJAzwOA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAPC2012X145N"; UniqueID = "\OFXFHSJE" ("\OFXFHSJE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C1005X7S1A225K050BC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c1005x7s1a225k050bc/tdk?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C1005X7S1A225K050BC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "810-C1005X7S1A225K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/C1005X7S1A225K050BC?qs=dfay7wIA1uFANmjMJAzwOA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAPC2012X145N"; UniqueID = "\SZYSJEMP" ("\SZYSJEMP")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C1005X7S1A225K050BC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c1005x7s1a225k050bc/tdk?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C1005X7S1A225K050BC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "810-C1005X7S1A225K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/C1005X7S1A225K050BC?qs=dfay7wIA1uFANmjMJAzwOA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "CAPC2012X145N"; UniqueID = "\VALBZENL" ("\VALBZENL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C1005X7S1A225K050BC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c1005x7s1a225k050bc/tdk?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C1005X7S1A225K050BC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "810-C1005X7S1A225K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/C1005X7S1A225K050BC?qs=dfay7wIA1uFANmjMJAzwOA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "CAPC2012X145N"; UniqueID = "\RIGPOOSK" ("\RIGPOOSK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-8/146244.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "963-UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/UMK105CBJ105MV-F?qs=lkMpTOwszhfe5N0wQnb5vQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "CAPC2012X145N"; UniqueID = "\RECNGQIP" ("\RECNGQIP")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-8/146244.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "963-UMK105CBJ105MV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/UMK105CBJ105MV-F?qs=lkMpTOwszhfe5N0wQnb5vQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "CAPC2012X145N"; UniqueID = "\TVXYWAZC" ("\TVXYWAZC")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C1005X7S1A225K050BC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c1005x7s1a225k050bc/tdk?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C1005X7S1A225K050BC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "810-C1005X7S1A225K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/C1005X7S1A225K050BC?qs=dfay7wIA1uFANmjMJAzwOA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAPC2012X145N"; UniqueID = "\SFGMOZCX" ("\SFGMOZCX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C1005X7S1A225K050BC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c1005x7s1a225k050bc/tdk?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C1005X7S1A225K050BC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "810-C1005X7S1A225K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/C1005X7S1A225K050BC?qs=dfay7wIA1uFANmjMJAzwOA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+5 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+5 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+5 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+5 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+5 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=+5 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+5 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=+5 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=+5 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=+5 Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=+5 Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=+5 Pin=C18-2
